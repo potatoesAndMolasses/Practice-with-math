@@ -1,6 +1,6 @@
-# Análise de Dados com Google Colab
+# Análise de Dados com Kaggle e Google Colab
 
-Este projeto tem como objetivo realizar uma análise de dados utilizando o Google Colab. Coloco em prática a exploração, limpeza, visualização e modelagem de dados para extrair informações e gerar insights.
+Este projeto tem como objetivo realizar uma análise de dados utilizando o Kaggle e o Google Colab. Coloco em prática a exploração, limpeza, visualização e modelagem de dados para extrair informações e gerar insights.
 O código está estruturado em notebooks no Google Colab, facilitando a execução e a colaboração em tempo real.
 
 ## Descrição do Projeto
